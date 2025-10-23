@@ -37,4 +37,4 @@
 ---
 ## 📂 الملفات في المشروع
 - https://github.com/Muna5abdullah/Real-Estate-Dashboard/blob/main/Real%20estate%20dashboard%20.pbix →ملف الاصلي (قابل للتعديل) Power BI   
-- https://github.com/Muna5abdullah/Real-Estate-Dashboard/blob/main/Real%20estate%20%3B%20POWER%20BI.pdf →نسخة داشبورد ثابتة (غير قابلة للتعديل)
+- https://github.com/Muna5abdullah/Real-Estate-Dashboard/blob/main/Real%20estate%20dashboard.pdf →نسخة داشبورد ثابتة (غير قابلة للتعديل)
